@@ -1,8 +1,6 @@
 ###
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> <br>
-  <img src="https://komarev.com/ghpvc/?username=sorkar5sourav&label=Profile%20views&color=0e75b6&style=flat" alt="sorkar5sourav" />
-</div>
+<img src="8469934.png" />
+
 <h1 align="center">Hi 👋, I'm Sorkar Sourav</h1>
 <h3 align="center">I'm a passionate and results-driven Junior Full-Stack Web Developer with a solid foundation in modern web technologies, backed by the analytical rigor of a Mathematics undergraduate background. I love turning complex problems into elegant, efficient, and user-friendly solutions.</h3>
 
@@ -19,7 +17,9 @@
 <a href="https://fb.com/sourav.sorkar.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourav.sorkar.10" height="30" width="40" /></a>
 </p>
 </div>
-<br><br><br>
+<p align="right"><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /><br>
+<img src="https://komarev.com/ghpvc/?username=sorkar5sourav&label=Profile%20views&color=0e75b6&style=flat" alt="sorkar5sourav" />
+</p>
 
 
 
@@ -59,9 +59,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorkar5sourav&show_icons=true&locale=en&layout=compact" alt="sorkar5sourav" /></p>
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=sorkar5sourav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
-</div>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorkar5sourav&show_icons=true&locale=en&layout=compact" alt="sorkar5sourav" />
+  <img src="https://streak-stats.demolab.com?user=sorkar5sourav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
+</p>
 
-###
+
