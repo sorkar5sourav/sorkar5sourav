@@ -60,7 +60,6 @@
 
 ###
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorkar5sourav&show_icons=true&locale=en&layout=compact" alt="sorkar5sourav" />
   <img src="https://streak-stats.demolab.com?user=sorkar5sourav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
 </p>
 
