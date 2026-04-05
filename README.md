@@ -5,7 +5,7 @@
 <img src="8469934.png" />
 📍 **Brahmanbaria, Dhaka, Bangladesh**  
 📧 **sorkar.s.sourav@gmail.com** | 📱 **+880 1626-979066**  
-🔗 [LinkedIn](https://linkedin.com/in/sorkar-sourav-3a5057386) | [GitHub](https://github.com/sorkar5sourav) | [Portfolio](https://your-portfolio-link)
+🔗 <a href="https://linkedin.com/in/sorkar-sourav-3a5057386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sorkar-sourav-3a5057386" height="30" width="40" /></a> <br>
 
 ---
 
